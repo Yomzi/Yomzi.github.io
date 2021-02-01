@@ -1,0 +1,60 @@
+body{
+  background-color: #ccc;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#imgHead{
+  background-image: url(https://photos.smugmug.com/Img/i-KNHfHdV/0/9e7630b9/XL/BeFunky-collage-XL.jpg);
+background-position: center;
+background-size: 600px 300px;
+margin: 50px;
+padding: 50px;
+}
+
+.cyan {
+  color: #00eeff;
+}
+
+h1,h2,ul{
+  
+  background-color:rgba(70%, 70%, 70%, 0.7);
+  /* margin:0px 80px 0px 120px; */
+display: flex;
+align-items: center;
+justify-content: center;  
+}
+
+#services{
+  display: flex;
+  justify-content: center;
+  background-color: #bfb;
+}
+
+.margin{
+  padding: 1px;
+  color: white;
+}
+
+#navbar{
+  display: flex;
+  justify-content: center;
+  background-size: ;
+}
+
+.bt{
+  /* padding: 10px; */
+  /* display: flex;
+  justify-content: space-around; */
+  border-radius: 60px;
+}
+
+#About{
+  background-color: #00ddff;
+  display: inline-flexbox;
+  color: #ee0099 ;
+}
+
+#prices{
+  background-color: #bfb;
+ }
