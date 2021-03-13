@@ -66,10 +66,10 @@
   
 	<h1> 
 		Welcome to Emangwaneni Guest House
-	</h1>
-	<div class="slider">
+	</h1><div class="slider">
 		<img name = "slide" alt="" id="slider">
 	</div>
+
 	<hr />
 	<div id="About">
 		<p class="About"> 
