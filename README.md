@@ -1,5 +1,4 @@
-  <!DOCTYPE html>
-l<html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -136,7 +135,6 @@ l<html lang="en">
 		Directions From The Mall
 	</h1>
 <Link rel="stylesheet" href="newBizz.css" />
-</head>
 	<h2>Evaton Mall</h2>
 		<p class="paragraph">turn left onto Golden Highway towards Engine Garage</p>
 	<h2>Engine Garage</h2>
@@ -153,4 +151,3 @@ l<html lang="en">
 
 	</script>
 </body>
-</html>
