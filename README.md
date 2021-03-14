@@ -22,9 +22,9 @@
 	</h2>
 	  <ul>
 			<li><u><b>0721615937</b></u></li>
-			<hr>
+			<hr/>
 			<li><u><strong>0637366486</strong></u></li>
-			<hr>
+			<hr/>
 		</ul>
   </section>
   <nav id="navbar">
