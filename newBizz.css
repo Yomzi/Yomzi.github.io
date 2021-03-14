@@ -2,9 +2,10 @@
   /* from {background-color: aqua;}
   to{background-color: blueviolet;} */
   0%{background-color: beige;}
-  45%{background-color: aqua;}
+  30%{background-color: aqua;}
+  60%{background-color: #bfb;}
   90%{background-color: blueviolet;}
-  100%{background-color:#ccc; }
+  100%{background-color:#ccc;}
 }
 body{
   /* background:linear-gradient(to right,#ccc, aqua, blueviolet); */
