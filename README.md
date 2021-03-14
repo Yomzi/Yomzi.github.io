@@ -88,7 +88,7 @@
 	</div>
 	<hr/>
 	<div class="box">
-		<img src="https://i.ibb.co/3zwDvQP/room1.jpg"width="200" height="150" title="Room 1" alt="Room 1 bedroom"/>
+		<img src="https://i.ibb.co/3zwDvQP/room1.jpg" title="Room 1" alt="Room 1 bedroom"/>
 		<img src="https://i.ibb.co/L80XfP9/room2.jpg"width="200" height="150" title="Room 2" alt="Room 2 bedroom"/>
 		<img src="https://i.ibb.co/6vQ0Gnr/room3.jpg"width="200" height="150" title="Room 3" alt ="Room 3 bedroom"/>
 		<img src="https://i.ibb.co/Mhm8R5S/room4.jpg"width="200" height="150" title="Room 4" alt="Room 4 bedroom"/>	<hr/>
