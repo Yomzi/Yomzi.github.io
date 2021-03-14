@@ -24,6 +24,7 @@
 			<li><u><b>0721615937</b></u></li>
 			<hr>
 			<li><u><strong>0637366486</strong></u></li>
+			<hr>
 		</ul>
   </section>
   <nav id="navbar">
