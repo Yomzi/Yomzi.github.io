@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
+  <!DOCTYPE html>
+l<html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -7,14 +7,14 @@
   <link rel="stylesheet" href="newBizz.css">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"/>
 </head>
-<body>
+<body class="bg">
 <section id="imgHead">
 	  
 		<h1 class="cyan">	
 			Emangwaneni Guest House
 	</h1>
 
-	<h2 class="cyan">
+`	<h2 class="cyan">
 		CK NO :2004/108331/23
 	</h2>
 	
@@ -22,22 +22,22 @@
 		Contacts
 	</h2>
 	  <ul>
-			<li>0721615937</li>
-			<br>
-			<li>0637366486</li>
+			<li><u><b>0721615937</b></u></li>
+			<hr>
+			<li><u><strong>0637366486</strong></u></li>
 		</ul>
   </section>
   <nav id="navbar">
 	<a href="#About"><button class="bt btn btn-success">About Us</button></a>
 	<a href="#prices"><button class="btn btn-success">Prices</button></a>
-	<a href="DirectionsLink.html"><button class="btn btn-success">Directions</button></a>
+	<a href="#DirectionsLink"><button class="btn btn-success">Directions</button></a>
 </nav>
 
-  <div id="services">
-    <h2 class="margin">
+  	<div id="services">
+    	<h2 class="margin">
 				Services & Facilities
-			</h2>
-        <div>
+		</h2>
+  	<div>
       <ol>
 				<li>
 				TV Room/Lounge
@@ -66,10 +66,10 @@
   
 	<h1> 
 		Welcome to Emangwaneni Guest House
-	</h1><div class="slider">
+	</h1>
+	<div class="slider">
 		<img name = "slide" alt="" id="slider">
 	</div>
-
 	<hr />
 	<div id="About">
 		<p class="About"> 
@@ -86,49 +86,53 @@
 		Our prices are also the lowest that you can ever find
 		but yet we offer the best quality that you can ever find in Mkhelele.
 		</p>
+	</div>
 	<hr/>
 	<div class="box">
-	<img src="https://lh3.googleusercontent.com/OdtijbviP069oBf5kR27PzGKJbdzRsZdrHJREQZ9LCHiEKX2JI6BfODPTCaXXwdIiFtX3wDOKbk0l-2GZRORYu0yZ0RKZUiOmlxNBUuZcLDDVV5bTJn2qBRfrmUxCzZWXUEPjFKHrz_3xN0dTnR5oTFlBccnX66z8aBcYlnIjJ6w6s-_GFMsN9q-8zzvVJ_rFuS_t_ZbRkQzxqOF6WGCXYbUTzfiq341LPNBbO5Vtr7azu2-OVaWeXumSixdIqd9oayRts2yL82t63W2Tn7wNo4Hz5Ghwdunz98osjqVS6cMZTawnHtcBs4s2ZzRemG7tw8Wnik7hEbqv_6hpCSFDhq3lfSvHjWVDilP52eIRtHBjy03JXAsHwq44HHgbHgIH3ru7komrsJATw8gSA8PDBdqGnwmRThEcowiRpl5fFB2V_ih4a5rjmmBfeBGbRbj4amtF_gYqELhttgglxt_ywwQfTw7KqfUd17LSMnWnEF6i0aIUWUAWyo1TApaqoHKYac4L6ybBx5-LcuhVGBQKfaazxZtJuKpkZwJJypH4QcoyPDVX99HnuTd2u6p9Uw6MEpeAF5BU6r0GVmLROQazpcUET6bFliYcsyHf6bM3Vu3OPaTYzxVKM6hlnKdsV54zGgzSPo-oFSPzSZdMeb99wQl7RBdhPArahuHWi77rk9KWPBOdwlfjScLXRjs0M-UUc7oxGduKGNhLKooJold0DbK=w1111-h833-no?authuser=0" height="150" title="Room 1" alt="Room 1 bedroom"/>
-	<img src="https://lh3.googleusercontent.com/4IeRMTynpshVj_ss4vmfj1jBtTPsB0VsrsZ8xNvzXqb4-uXxTSDXZr41f_2qPH3r6vsxs3MyDlXTibd3B6hVtq-0YEMD9ErHfWQup9v8MXk2s4T7Lm7DyrVwJK8bG0s-2JVJBIDp75pYFaEdnJ7pDNw-12Ovcns8C4bcL8MrhSxC79H7_H_Ed9TAhiONtCdjzUUuk45twMz_ZtYT-hAA8AmECWqiX-JQrW-QNmBnOh9A8sj0sDZAeggWPWd4O8bCTVdV-_uMrjKNfdSsPVJC_M27k9K2VW_l9cQLaqXfERQL5Gj4kHzHJMSkxwXGBAd6M2Ur1gS8oQQMXq9KPRzN2LfPppzJ4VNBmD50JGQT15lIOFA6s0WH-0z9Rrme9QJkOLoWkhhWdti555JWynm__tG_p0L8CTrFvVQMwBWih13rf7288xCCZqmkp-jb4m3gohK_Z2Qmwfp2JQhRXo0rs9vIFSMgEIKl98HLOKG5moRwOhm0QuNpHNd_sqCBc85GyLrXzFTNVnS1tkCedCnKQcu_0LRMoFqjKyTQc_I9Cw7VEkZIsu0knv6Tmp84gInGYrT9dCVNDLa-xRPabfOCY9cCpjEmvK1LKcQr28A__EEfFtszS8INqGdtmEl5KLGsj9mwNQXv1L8DI1fiPoL7ylHPtue-RT7wzG8vza9_J9N1uijb8VKJw-_p2Q9OGXOQ91OIcPv0eK1J-Gsm4KLb2obX=w1111-h833-no?authuser=0" height="150" title="Room 2" alt="Room 2 bedroom"/>
-			<hr/>
-	</div>
-	<br>
+		<img src="https://lh3.googleusercontent.com/-oX5gRlns0HAchrcOPLm_aL6lPkSYs2gBmXgZSnqVTaGhrLz9jrl6oMirLwEhi3UnF06n1qxB33IEFztGimoq2ZhoG3s9NXwHlULKQb2MzgnSyvkMCUhHXTfBkHPAMzAN0B_fKT4-ETDML2MAOgdsuMuwe3r2cBAoHv2CPPiy8IN51J66DeQGzTSo3iHm2uOWKEYkCXRYnNs9mfm2UEJpcWFu2vew-PHq4M8xsZzLRjS9kJDSneZR9MTfN-gKpc0-Uw9zBs6fPXx_WoAmH9S4EmjJPr_HHwVKggcvbt4JE7QZaMegfVgG1ME9-cp5nuzAIanNMrU2oLldmha-L1a7b5NgGqgD5i2sHPUN9HHnvF-ZjKViAasJAkk6XLobyJrYkwLcxv6hUd9lERXItyg69CmYOyCG25YeyYSqHAOXD2n6F5X7bF-6VHSBFRl0H6xklfSxlogtZlccws145CGbkM5PB8OEZeqMJjGwyMOxv7IvdqODaPuFSZHDTfVQzSaoWQ5D2mGToxXdxfumagrCKQ-tBVMTVxz_PGTHTPpD1iduA8t6JrcHRvIHpToBb4BArIn741yPbOK9Kxt7jpqpRfcdVh1I_cIIqtFpo9CNim3R3SJqekZDByjAOWGnzR-bAPB_ozc8qVysAcBb2s3_Uc0nzzVVJnUbM0j24wrQInnVcN4mbjrEQtJf--sew=w1111-h833-no?authuser=0"width="200" height="150" title="Room 1" alt="Room 1 bedroom"/>
+		<img src="https://lh3.googleusercontent.com/9rt15CnKGopzitliXbUgD5QZsTL7JhZ3DwOqjBt5VSHvy5HY67C1jTqmASeRIwA7j8mMke5qrQITHNAvr7fY7kocHoGLcKQpQv6c4_Y5D9lpB7o_4YuazVGBKExlICrxhZHonMr6uZBaZgkeGFEZjqJ3sAWYCI8gAmwz9-qMMtIU1lrVK5-ZASRNsqS9lKlyl-w8C6QXL2q6imxmh683-OIG65YlqmUOV519qVntvahoH7q5ElKofOXZeeT0rOjihPSr11umyaqeEi_3dlUzCGOClMhNhYsrglHZYfN6GOF1TmdCqh4-INGrXPqmx5cHPSfhLIE1GCoR9A1L8bu52WyLALYkzZHPdGMzI_xQlJmoPrEE_giQJBJZHmdhXq1KEyMyTpd3YMguyNnSOP3oZvooDGz1jDoC98KcnfU19RDcl_-cd1qwuWOq_fdrr4nchEP4ockFncSsIIWlpDZooSYC3sf3G7Rt2kFY0OaYwQY0DXB8-Qv2Tve8Rhb7j4UpK-bK-1BXRsGpDFE6oOHGMrLKM_RXERk26rb5v5OQBJEPOg4wwqtmJmrDR7X9dsA3vIFT8EvhSDmpSt1xY7kLj05DMIfP-QhEXG60JbnnGqB_7xlHqkhJhG5eE9IpkQCjh2_V_qE3Ss-QmI6PxbX73MDXUHKuLiVH8Xs0b36gPecAWAXYLHs2Y9FJah9nTQ=w1111-h833-no?authuser=0"width="200" height="150" title="Room 2" alt="Room 2 bedroom"/>
+		<img src="https://lh3.googleusercontent.com/n35qIEUgsDuCN4PmKD7yRnDXDdO82KpNNALfddtPPq7kXQIPmoXPp6Tn3qGGLGu3_Gdodb7Er3rzaqrrFTJKy6ZnvTSM_lXj_JgqY0Q1BroX68Ekkfab5oAtLtVjQqvIeSS7UupHm2IqikFuIHPUjM9eZrRHnEzV8o-IDIt24OngZE2nuV-eSC_k2sBfEQz_mGSqoTlAJF9w4tb8nO9fU8BVJYaR5Tlh7XCClsYpGtN3f9UwfCFDHcb0q-oW_8VXLY3ijKoZ3j3hyYWIANevNcGrCB3mCW8qi2CnChFYAxeGXlhaymZT4NgHXWwKLILL0TQ7uOKSln1MZdU36XU3Tdqql3CNFtPpnu9Qs9x1oGDMPqiNgNeqU9p0dvmYFBEh3J0ehvCKNDrlW4qjS8LGVe8IkJLyfYUPp01YpEFHivXJ3-ej4uzavQzFCkdUTYBRWG6CaLqIOgnPKZuBHR5OwPR4CRYQfEgtNamABU76M7MYjVyIC6AmVsigEltb1oDP7OQ18TUlPIJl9EOSX2nelmZKCd_wkCaomBSWFQJNm8wHUSSGR53jFkvSwPIoYFlr5yyfZ_f_gHwr69WtHC5g2d-BrKJi1aWTyk7Nroaz0eCN1WAdSWoikAwKjWpIrzYO6cjFC3ZQJMr0_wBVfHFMQPNooA03IukGXPjTgCGqwaft3M8i2ajlX7wnU9jAzQ=w298-h224-no?authuser=0"width="200" height="150" title="Room 3" alt ="Room 3 bedroom"/>
+		<img src="https://lh3.googleusercontent.com/yWWMichTv1Uylgbu7HpOAOsZjCZtRR3RX-IXWlYFYcNdfNhU0B4dttYrD-7xbN3s09dYFlBzxQWZDfZ8qsLjN2J0ezuznVMgBJqmepV9TRIptDWPeNQvifw1KDi6ZB1GbP7D6KyZw2TTDpT5XXqb-kdpaJUeneOL0Ph6yUMTTJlMsJJRrbpdNCDLirwFR-M2i8xd6CliYC6wCJN91I28y8hzaCGY9SSlOkGu0m4zOZNjD1rBjuIHOwN-Tncy6flDwOOk8kkSyQQO3naPXlUk9uRVZb3uSSiCx-FGyT5_HT2_Nva0zqQfDE6F6avMZeehuUqQiHY6qnNb9gwMwSJZMSMukZmN9AzlmOzIKmPQGZviohLRxMyW2Vu91gaK9R01-3MziD5phzTXzoF8N42zlDklp64i2EE_o_bMJZyHZAo-XsEtJGiz6bdqojZaxJUfKLcNs-kBKg9StjGFwVlveTWaogfvtEk9eKt2v5ppMefZFszTnZtCQd5fAMhAAuqqVKvXxShPM-6Agvz_1KtWuGEveh6qmmtTecqM9dAqlMp0B-MoKYrLvNSf1K4dAhCn0peJyYkOFwebFeDYjR0x9Rp83yhj_QZisW0UEy3AsL3zdm2UB8ByXzbwIem1pVZb5pOwTvXM7RREAAaMVx7CIrRJjwth44PDs_jQr4DzJJfJ8yexkQSH4RmxSk4AAQ=w1111-h833-no?authuser=0"width="200" height="150" title="Room 4" alt="Room 4 bedroom"/>
+	<hr/>
+	</div> 
+<br>
 <section id="prices">
-		<h2>
+		<h2 class="prices">
 			Price List
 		</h2>
-		<h2>
+		<h2 class="prices">
 			Day Time Prices
 		</h2>
-			<p>
+			<p class="prices">
 				one hour				R80
 			</p>
-			<p>
+			<p class="prices">
 				Two Hours				R130
 			</p>
-		<h2>
+		<h2 class="prices">
 			Night Time Prices
 		</h2>
-			<p>
+			<p class="prices">
 				Two Hours(NIGHT TIME)		R150
 			</p>
-			<p>
+			<p class="prices">
 				One Hour (NIGHT TIME)		R100
 			</p>
-		<h2>
+		<h2 class="prices">
 			Day Rest				R150
 		</h2>
-			<p>
+			<p class="prices">
 				***3-6 Hours(Begins @10 am till 4pm)
 			</p>
-		<h2>
+		<h2 class="prices">
 			ANYTHING FROM 7PM TO 10AM		R200
 		</h2>
-		<h2>
+		<h2 class="prices">
 			 12 HOURLY RATES (day/night)	R200
 		</h2>
-	</section>
-	<section id="DirectionsLink">
+</section>
+<img src="">
+<section id="DirectionsLink">
 	<h1>
 		Directions From The Mall
 	</h1>
