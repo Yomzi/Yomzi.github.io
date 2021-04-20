@@ -8,7 +8,7 @@
 <body class="bg">
 <section>
 	  <div class="row">
-      <div id="imgHead" class="col-xs-9">
+      <div id="imgHead">
         <h1 class="cyan">	
 			Emangwaneni Guest House
 	</h1>
